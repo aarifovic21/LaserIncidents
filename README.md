@@ -5,6 +5,7 @@
 
 <!-- badges: start -->
 
+![R-CMD-check](https://github.com/aarifovic21/LaserIncidents/workflows/R-CMD-check/badge.svg)
 <!-- badges: end -->
 
 The goal of LaserIncidents is to identify the frequency of incidents in

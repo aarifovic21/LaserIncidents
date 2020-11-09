@@ -20,7 +20,7 @@ knitr::opts_chunk$set(
 # LaserIncidents
 
 <!-- badges: start -->
-
+![R-CMD-check](https://github.com/aarifovic21/LaserIncidents/workflows/R-CMD-check/badge.svg)
 <!-- badges: end -->
 
 The goal of LaserIncidents is to identify the frequency of incidents in different areas across the U.S. as well as the number of injuries caused by laser incidents reported over the years. 
