@@ -1,0 +1,17 @@
+Package: LaserIncidents
+Title: Laser Incidents From The Federal Aviation Administration
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Adi",
+           family = "Arifovic",
+           role = c("aut", "cre"),
+           email = "aarifovic21@gmail.com")
+Description: Pointing a laser at an aircraft poses a serious safety risk for all those on board. Although there has been a heightened awareness on the seriousness of these incidents, there has still been thousands of incidents reported each year. With 5,000+ being reported in 2016, 2017, 2018, & 2019, it is still evident that laser strikes remain a serious threat to aviation safety.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Depends:
+  R(>= 2.10)
+URL: https://github.com/aarifovic21/LaserIncidents
+BugReports: https://github.com/aarifovic21/LaserIncidents/issues
+RoxygenNote: 7.1.1
